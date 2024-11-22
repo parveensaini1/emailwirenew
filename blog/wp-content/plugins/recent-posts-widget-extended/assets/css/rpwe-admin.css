@@ -1,0 +1,18 @@
+.rpwe-options small {
+  font-size: 0.7em;
+  color: #999;
+}
+
+.rpwe-info {
+  font-size: 0.8em;
+  line-height: 1.4;
+}
+
+.rpwe-options .small-input {
+  width: 32% !important;
+  display: inline-block !important;
+}
+
+.rpwe-block {
+  display: block;
+}

@@ -1,0 +1,190 @@
+[13-Aug-2024 12:53:22 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[13-Aug-2024 12:53:22 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[13-Aug-2024 12:53:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/subscribers/line-update-front.php(1): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[28-Aug-2024 08:47:05 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[28-Aug-2024 08:47:05 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[28-Aug-2024 08:47:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(1): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[28-Aug-2024 08:49:28 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[28-Aug-2024 08:49:28 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[28-Aug-2024 08:49:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(1): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[28-Aug-2024 08:53:20 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[28-Aug-2024 08:53:20 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[28-Aug-2024 08:53:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(1): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[28-Aug-2024 08:55:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[28-Aug-2024 08:55:00 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[28-Aug-2024 08:55:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(1): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[28-Aug-2024 08:55:18 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[28-Aug-2024 08:55:18 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[28-Aug-2024 08:55:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(1): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[28-Aug-2024 08:57:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function print_() in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php:1
+Stack trace:
+#0 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 1
+[28-Aug-2024 09:00:40 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /storage/home/devsite/public_html/sendy/includes/helpers/parsecsv.php on line 214
+[28-Aug-2024 09:18:42 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /storage/home/devsite/public_html/sendy/includes/helpers/parsecsv.php on line 215
+[28-Aug-2024 09:25:16 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /storage/home/devsite/public_html/sendy/includes/helpers/parsecsv.php on line 216
+[28-Aug-2024 09:25:59 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /storage/home/devsite/public_html/sendy/includes/helpers/parsecsv.php on line 310
+[28-Aug-2024 09:26:46 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /storage/home/devsite/public_html/sendy/includes/helpers/parsecsv.php on line 339
+[28-Aug-2024 09:27:22 UTC] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in /storage/home/devsite/public_html/sendy/includes/helpers/parsecsv.php on line 607
+[28-Aug-2024 09:27:56 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /storage/home/devsite/public_html/sendy/includes/helpers/parsecsv.php:102
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(17): parseCSV->__construct()
+#1 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/helpers/parsecsv.php on line 102
+[28-Aug-2024 09:29:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[28-Aug-2024 09:29:19 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[28-Aug-2024 09:29:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(1): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[28-Aug-2024 09:30:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[28-Aug-2024 09:30:24 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[28-Aug-2024 09:30:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(1): require_once('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[28-Aug-2024 09:30:44 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /storage/home/devsite/public_html/sendy/includes/helpers/parsecsv.php:102
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(16): parseCSV->__construct()
+#1 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/helpers/parsecsv.php on line 102
+[28-Aug-2024 09:32:47 UTC] PHP Warning:  Undefined variable $mysqli in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 23
+[28-Aug-2024 09:32:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php:23
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(23): mysqli_real_escape_string(NULL, 1)
+#1 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 23
+[28-Aug-2024 09:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_app_info() in /storage/home/devsite/public_html/sendy/includes/login/auth.php:6
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(2): include()
+#1 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/login/auth.php on line 6
+[28-Aug-2024 09:51:37 UTC] PHP Fatal error:  Uncaught Error: Class "Dbconn" not found in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php:25
+Stack trace:
+#0 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 25
+[28-Aug-2024 09:51:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, Dbconn given in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php:26
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php(26): mysqli_real_escape_string(Object(Dbconn), 1)
+#1 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 26
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 280
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 09:55:35 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 09:55:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITEADMINURL" in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php:382
+Stack trace:
+#0 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 382
+[28-Aug-2024 09:57:44 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:57:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITEADMINURL" in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php:382
+Stack trace:
+#0 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 382
+[28-Aug-2024 09:58:32 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:32 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Warning:  Undefined variable $custom_fields_value in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 09:58:33 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 216
+[28-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279
+[28-Aug-2024 10:08:05 UTC] PHP Warning:  Undefined array key 1 in /storage/home/devsite/public_html/sendy/includes/subscribers/import-update-admin.php on line 279

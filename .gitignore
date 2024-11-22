@@ -1,0 +1,40 @@
+# User specific & automatically generated files #
+#################################################
+# /app/Config/database.php
+/admin/webroot
+/admin/Vendors
+/admin/Controller/Component/AWSSESComponent.php
+/admin/Config/core.php
+/admin/tmp
+/app/tmp
+/app/Vendors
+/vendors
+/lib/Cake/Console/Templates/skel/tmp/
+/app/webroot
+/app/webroot/files
+/build
+/dist
+/tags 
+/global_constants.php
+settings.php
+*.mo
+.svn
+
+# IDE and editor specific files #
+#################################
+/nbproject
+.idea
+/.project
+/.buildpath
+/.settings/
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db

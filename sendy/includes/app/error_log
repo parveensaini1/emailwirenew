@@ -1,0 +1,270 @@
+[17-Jan-2024 01:31:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[17-Jan-2024 01:31:32 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[17-Jan-2024 01:31:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[18-Sep-2024 04:00:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[18-Sep-2024 04:00:12 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[18-Sep-2024 04:00:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[20-Sep-2024 19:24:03 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[20-Sep-2024 19:24:03 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[20-Sep-2024 19:24:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[15-Oct-2024 06:24:31 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[15-Oct-2024 06:24:31 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[15-Oct-2024 06:24:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[15-Oct-2024 11:24:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[15-Oct-2024 11:24:37 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[15-Oct-2024 11:24:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[16-Oct-2024 18:20:15 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[16-Oct-2024 18:20:15 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[16-Oct-2024 18:20:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[16-Oct-2024 18:23:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[16-Oct-2024 18:23:23 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[16-Oct-2024 18:23:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[17-Oct-2024 19:10:48 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[17-Oct-2024 19:10:48 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[17-Oct-2024 19:10:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[18-Oct-2024 17:01:46 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[18-Oct-2024 17:01:46 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[18-Oct-2024 17:01:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[18-Oct-2024 17:36:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[18-Oct-2024 17:36:56 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[18-Oct-2024 17:36:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[18-Oct-2024 17:58:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[18-Oct-2024 17:58:57 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[18-Oct-2024 17:58:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[18-Oct-2024 18:06:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[18-Oct-2024 18:06:49 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[18-Oct-2024 18:06:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[18-Oct-2024 18:23:14 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[18-Oct-2024 18:23:14 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[18-Oct-2024 18:23:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[18-Oct-2024 18:24:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[18-Oct-2024 18:24:10 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[18-Oct-2024 18:24:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[19-Oct-2024 05:50:51 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[19-Oct-2024 05:50:51 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[19-Oct-2024 05:50:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[19-Oct-2024 06:15:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[19-Oct-2024 06:15:37 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[19-Oct-2024 06:15:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[19-Oct-2024 06:24:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[19-Oct-2024 06:24:37 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[19-Oct-2024 06:24:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[22-Oct-2024 04:33:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[22-Oct-2024 04:33:00 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[22-Oct-2024 04:33:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[07-Nov-2024 16:00:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[07-Nov-2024 16:00:00 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[07-Nov-2024 16:00:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[07-Nov-2024 20:05:09 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[07-Nov-2024 20:05:09 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[07-Nov-2024 20:05:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[10-Nov-2024 17:11:11 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[10-Nov-2024 17:11:11 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[10-Nov-2024 17:11:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[14-Nov-2024 16:14:59 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[14-Nov-2024 16:14:59 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[14-Nov-2024 16:14:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[14-Nov-2024 17:16:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[14-Nov-2024 17:16:12 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[14-Nov-2024 17:16:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[14-Nov-2024 17:55:16 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[14-Nov-2024 17:55:16 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[14-Nov-2024 17:55:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[15-Nov-2024 07:39:38 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[15-Nov-2024 07:39:38 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[15-Nov-2024 07:39:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[15-Nov-2024 07:40:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[15-Nov-2024 07:40:00 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[15-Nov-2024 07:40:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31
+[17-Nov-2024 03:46:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 11
+[17-Nov-2024 03:46:17 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /storage/home/devsite/public_html/sendy/includes/config.php on line 12
+[17-Nov-2024 03:46:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'user_email_wire'@'localhost' (using password: YES) in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code:31
+Stack trace:
+#0 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(31): mysqli->__construct('localhost', 'user_email_wire', 'UU]P@DlsBKr9', 'email_wire', 3306)
+#1 /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code(50): dbConnect()
+#2 /storage/home/devsite/public_html/sendy/includes/functions.php(1): eval()
+#3 /storage/home/devsite/public_html/sendy/includes/app/users.php(2): include('/storage/home/d...')
+#4 {main}
+  thrown in /storage/home/devsite/public_html/sendy/includes/functions.php(1) : eval()'d code on line 31

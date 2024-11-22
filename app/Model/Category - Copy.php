@@ -1,0 +1,1 @@
+<?phpclass Category extends AppModel {	public $name = 'Category';}
